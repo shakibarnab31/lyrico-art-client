@@ -1,0 +1,10 @@
+.header{
+    background-image:url('../../images/header-bg.jpg');
+    padding-bottom: 300px; 
+    background-size: 1100px 600px;
+    background-repeat: no-repeat;
+}
+.header-title{
+    font-size: 50px;
+    font-weight: 700;
+}
