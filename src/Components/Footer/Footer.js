@@ -1,7 +1,9 @@
 import React from 'react';
+
 import './Footer.css'
 
 const Footer = () => {
+
     return (
         <div className="footer py-2 mt-5">
             <div className="d-flex justify-content-center m-5">
@@ -18,9 +20,7 @@ const Footer = () => {
                     <p>Chealses Street, London</p>
                     <p>England</p>
                 </div>
-                <div className="mx-5">
-                    <h4>Social Media</h4>
-                </div>
+
 
             </div>
             <p className="text-center">copyright protected</p>

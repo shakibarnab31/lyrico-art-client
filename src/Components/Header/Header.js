@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './Header.css'
-import logo from '../../images/header-bg.jpg'
+
 
 const Header = () => {
     return (
@@ -37,8 +37,9 @@ const Header = () => {
             <div className="d-flex mt-5 pt-5 mx-5  ">
 
                 <div>
-                    <h1 className="header-title text-start">LYRICO <br />
-                        <span className="fs-1">ART And Music School</span> </h1>
+                    <h1 className="header-title text-start  ">LYRICO <br />
+                        <span className="fs-1">
+                            ART And Music School</span> </h1>
                     <p className=" text-start">We are providing the best qualities teaching environment for learning art and music. <br /> Start your journey now!!!!!</p>
 
                 </div>
