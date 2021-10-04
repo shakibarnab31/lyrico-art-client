@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUiH8hlh0TIJYne4yzDoI1Ly9sqezaUmuFgg&usqp=CAU",
+        "name": "Guiter Classes",
+        "info": "We are providing best guiter courses in the world.Our teachers are well to expert to make your dream true",
+        "duration": "8 months",
+        "time": "Sunday,Tuesday",
+        "price": "$280/monthly"
+    },
+    {
+        "id": 2,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf4cmiMcUEENj-uKB9Cfhty2CxUPjShvKnrg&usqp=CAU",
+        "name": "Violin Classes",
+        "info": "We are providing best violin courses in the world.Our teachers are well to expert to make your dream true",
+        "duration": "8 months",
+        "time": "Sunday,Wednesday",
+        "price": "$250/monthly"
+    },
+    {
+        "id": 3,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTATvqbKh8U-y0Ye1f5Z1M_VZ78RmTxKHnPog&usqp=CAU",
+        "name": "Drawing from life",
+        "info": "We are providing best Drawing from life courses in the world.Our teachers are well to expert to make your dream true",
+        "duration": "9 months",
+        "time": "Monday,Wednesday",
+        "price": "$300/monthly"
+    },
+    {
+        "id": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDFJuDOAivh7W6f7VmjaztfwQKAELb-H_T3g&usqp=CAU",
+        "name": "Color for Designers",
+        "info": "We are providing best Color for Designers courses in the world.Our teachers are well to expert to make your dream true",
+        "duration": "1 year",
+        "time": "Monday,Thursday",
+        "price": "$300/monthly"
+    },
+    {
+        "id": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt3CF02vrIqffk5Nlzek57Uso926PJpxpMGg&usqp=CAU",
+        "name": "Pinao Classes",
+        "info": "We are providing best Pinao courses in the world.Our teachers are well to expert to make your dream true",
+        "duration": "9 months",
+        "time": "Monday,Tuesday",
+        "price": "$300/monthly"
+    },
+    {
+        "id": 6,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrETYeckWBLaBnLDkLwshiQWdYhNqcCw5tvg&usqp=CAU",
+        "name": "Drum Classes",
+        "info": "We are providing best Drum courses in the world.Our teachers are well to expert to make your dream true",
+        "duration": "8 months",
+        "time": "Saturday,Sunday",
+        "price": "$250/monthly"
+    },
+    {
+        "id": 7,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0m2EEvTco3RbsyOLXRl7dwRpy58hkT6VJqg&usqp=CAU",
+        "name": "Advance Digital Art",
+        "info": "We are providing best Advance Digital Art courses in the world.Our teachers are well to expert to make your dream true",
+        "duration": "9 months",
+        "time": "Saturday,Monday",
+        "price": "$250/monthly"
+    },
+    {
+        "id": 8,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PZn8Rw2qbohOQ-j5Pu34zlYJbGQpHwKdOQ&usqp=CAU",
+        "name": "Curving in Wood",
+        "info": "We are providing best Curving in Wood courses in the world.Our teachers are well to expert to make your dream true",
+        "duration": "8 months",
+        "time": "Friday,Saturday",
+        "price": "$280/monthly"
+    },
+    {
+        "id": 9,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShq5jluE8U7st3FuSa3kD7LwjRwBCXfTuWwA&usqp=CAU",
+        "name": "Art Photography",
+        "info": "We are providing best Art Photography courses in the world.Our teachers are well to expert to make your dream true",
+        "duration": "6 months",
+        "time": "Sunday,thursday",
+        "price": "$300/monthly"
+    }
+]
