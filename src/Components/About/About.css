@@ -1,0 +1,15 @@
+.mission{
+    background-color: rgb(247, 228, 230);
+}
+.mission img{
+    height: 500px;
+    
+}
+.art img{
+    height: 400px;
+    padding-left: 50px;
+}
+.music img{
+    width: 400px;
+    height: 400px;
+}
