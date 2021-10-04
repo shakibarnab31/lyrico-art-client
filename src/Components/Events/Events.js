@@ -17,12 +17,14 @@ const Events = () => {
     }, [])
     return (
         <div>
-            <div class="row row-cols-1 row-cols-md-2 g-5 mx-5">
+            <h1 className="my-5">International Events</h1>
+            <div class="row row-cols-1 row-cols-md-2 g-5 mx-5 mb-4">
                 {intEvents.map(intEvent => <IntEvent
                     key={intEvent.id}
-                    intEvent={intEvent}></IntEvent>)}</div>
-            <h1>Our events</h1>
-            <div class="row row-cols-1 row-cols-md-3 g-4 mx-5">
+                    intEvent={intEvent}></IntEvent>)}
+            </div>
+            <h1>Our School Events</h1>
+            <div class="row row-cols-1 row-cols-md-3 g-4 mx-5 mt-5">
                 {ourEvents.map(ourEvent => <OurEvent ourEvent={ourEvent}></OurEvent>)}
 
             </div>

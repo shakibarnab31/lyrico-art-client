@@ -7,7 +7,7 @@ const events = [
 ]
 
 const ourEvents = [
-    { id: 1, Title: "Guiter Fest", info: 'We arrange guiter fest in every year  in our school.Students participate in this fest and show there performance and we select best of students to send various international events' },
-    { id: 2, Title: "Piano and Violin Fest", info: 'We arrange Piano and Violin fest in every year  in our school.Students participate in this fest and show there performance and we select best of students to send various international events' },
-    { id: 3, Title: "Art and Photography fest", info: 'We arrange multiple Art and Photography fest in every year  in our school.Students participate in this fest and show there performance and we select best of students to send various international events' },
+    { id: 1, img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5QUzewo15jskP6zYf7AdSxSvyYCvvMvsa7g&usqp=CAU", Title: "Guiter Fest", info: 'We arrange guiter fest in every year  in our school.Students participate in this fest and show there performance and we select best of students to send various international events' },
+    { id: 2, img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFyz81JlhDgVtbNFjI-RxD4bxtTs-7YcYmHQ&usqp=CAU', Title: "Piano and Violin Fest", info: 'We arrange Piano and Violin fest in every year  in our school.Students participate in this fest and show there performance and we select best of students to send various international events' },
+    { id: 3, img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoXysmxR5tsUvnHyc1LMxaCDP_7CP5LDLJg&usqp=CAU", Title: "Art and Photography fest", info: 'We arrange multiple Art and Photography fest in every year  in our school.Students participate in this fest and show there performance and we select best of students to send various international events' },
 ]
