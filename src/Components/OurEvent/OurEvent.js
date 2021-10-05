@@ -7,7 +7,7 @@ const OurEvent = (props) => {
             <div class="card h-100">
                 <img src={img} class="card-img-top h-50" alt="..." />
                 <div class="card-body">
-                    <h5 class="card-title">{Title}</h5>
+                    <h5 class="card-title fw-bold text-danger">{Title}</h5>
                     <p class="card-text">{info}</p>
 
                 </div>

@@ -8,7 +8,7 @@ const Service = (props) => {
             <div class="card h-100 service-image">
                 <img src={img} class="card-img-top" alt="..." />
                 <div class="card-body">
-                    <h5 class="card-title fw-bolder">{name}</h5>
+                    <h5 class="card-title fw-bolder text-danger">{name}</h5>
                     <p class="card-text">{info}</p>
                     <p className="fw-bold">Time: {time}</p>
                     <p>{duration}</p>

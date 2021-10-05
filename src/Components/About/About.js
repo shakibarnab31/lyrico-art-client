@@ -11,7 +11,7 @@ const About = () => {
             <div className=" art d-flex justify-content-center mt-5 mx-5">
                 <img className="mx-5" src={artImage} alt="" />
                 <div className="m-5 text-start">
-                    <p>Art School</p>
+                    <p className="text-warning"> Art School</p>
                     <h1>A leader in <br />
                         Educating Artist <br />
                         Since 2010</h1>
@@ -21,7 +21,7 @@ const About = () => {
             <div className=" mission d-flex justify-content-center mt-5">
 
                 <div className="m-5 pt-5 text-start">
-                    <p>Mission</p>
+                    <p className="text-warning">Mission</p>
                     <h1>The heighst  <br />
                         caliber of artistic <br />
                         Education</h1>
@@ -32,7 +32,7 @@ const About = () => {
             <div className="music d-flex justify-content-center mt-5 mx-5">
                 <img className="mx-5" src={musicImage} alt="" />
                 <div className="m-5 text-start">
-                    <p>Music School</p>
+                    <p className="text-warning">Music School</p>
                     <h1>A leader in <br />
                         Educating Musician <br />
                         Since 2010</h1>
